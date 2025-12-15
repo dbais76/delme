@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is a new text file created for demo.
 Adding a new line
+=======
+This is a new text file created for dem.
+>>>>>>> 318346d (test file mod)
